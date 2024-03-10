@@ -17,7 +17,7 @@ Register a new user.
 <details>
 <summary> Toggle Request Body </summary>
     
-    ```json
+```json
     {
     "name": "Dhan Bahadur Chhettri",
     "email": "test@gmail.com",
@@ -25,7 +25,7 @@ Register a new user.
     "username":"test_user",
     "photo":"test_photo_url",
     }
-    ```
+```
 </details>
 
 #### Response
@@ -33,9 +33,8 @@ Register a new user.
 <details>
 <summary> Toggle Response </summary>
 
-    ```json
-    {
-
+```json
+{
 "loginToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjNlYzJkNzNmLTRjMmItNGUxMy1hMTA1LTYxOGY2ZmYxNjcyMyIsIm5hbWUiOiJEaGFuIEJhaGFkdXIgQ2hoZXR0cmkiLCJ1c2VybmFtZSI6InRlc3RfdXNlciIsImVtYWlsIjoidGVzdEBnbWFpbC5jb20iLCJwaG90byI6InRlc3RfcGhvdG9fdXJsIiwiaWF0IjoxNzEwMDA1MTQwLCJleHAiOjE3MTAwNDExNDB9.u421GRO72mjno2yWZPQe7o05sGxNSsrgn2-xuYTDBaA",
 "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjNlYzJkNzNmLTRjMmItNGUxMy1hMTA1LTYxOGY2ZmYxNjcyMyIsIm5hbWUiOiJEaGFuIEJhaGFkdXIgQ2hoZXR0cmkiLCJ1c2VybmFtZSI6InRlc3RfdXNlciIsImVtYWlsIjoidGVzdEBnbWFpbC5jb20iLCJwaG90byI6InRlc3RfcGhvdG9fdXJsIiwiaWF0IjoxNzEwMDA1MTQwLCJleHAiOjE3MTA2MDk5NDB9.5hTMQ0aXGRxIhvijUsHoVyqdV4M6wGScfztOKd82boA",
 "user": {
@@ -47,7 +46,7 @@ Register a new user.
 }
 }
 
-````
+```
 
 </details>
 
@@ -296,4 +295,3 @@ Unfollow a user.
 
 </details>
 
-````

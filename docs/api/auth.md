@@ -73,7 +73,7 @@ Authenticate a user with email and password.
 <details>
 <summary> Toggle Response </summary>
 
-    ```json
+```json
     {
   "loginToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjNlYzJkNzNmLTRjMmItNGUxMy1hMTA1LTYxOGY2ZmYxNjcyMyIsIm5hbWUiOiJEaGFuIEJhaGFkdXIgQ2hoZXR0cmkiLCJ1c2VybmFtZSI6InRlc3RfdXNlciIsImVtYWlsIjoidGVzdEBnbWFpbC5jb20iLCJwaG90byI6InRlc3RfcGhvdG9fdXJsIiwiaWF0IjoxNzEwMDA1MjU3LCJleHAiOjE3MTAwNDEyNTd9.1v2-RhTgcLrCob15EPGXWB7oBchD38ll0S-wL7nQ5H0",
   "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjNlYzJkNzNmLTRjMmItNGUxMy1hMTA1LTYxOGY2ZmYxNjcyMyIsIm5hbWUiOiJEaGFuIEJhaGFkdXIgQ2hoZXR0cmkiLCJ1c2VybmFtZSI6InRlc3RfdXNlciIsImVtYWlsIjoidGVzdEBnbWFpbC5jb20iLCJwaG90byI6InRlc3RfcGhvdG9fdXJsIiwiaWF0IjoxNzEwMDA1MjU3LCJleHAiOjE3MTA2MTAwNTd9.0D29ABF64JasWuk6BicrVdo5EReIfetwhHKxJO9qefU",
@@ -91,8 +91,10 @@ Authenticate a user with email and password.
   }
 }
 ```
-
 </details>
+
+
+
 
 ### `POST` /update
 

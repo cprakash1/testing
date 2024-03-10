@@ -1,5 +1,5 @@
-const postController = require("../../Controllers/post.controller");
-const postService = require("../../Services/post.service");
+const postController = require("../Controllers/post.controller");
+const postService = require("../Services/post.service");
 
 jest.mock("../Services/post.service");
 
